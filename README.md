@@ -1,2 +1,2 @@
 # Move-It
-Created a webiste "Move It" for packers and movers using only bootstrap components
+I've created a simple website for a startup called "Move It" Packers and Movers using only Bootstrap components.
